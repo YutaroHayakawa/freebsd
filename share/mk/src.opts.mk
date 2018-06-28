@@ -255,6 +255,7 @@ __TT=${MACHINE}
 __LLVM_TARGETS= \
 		aarch64 \
 		arm \
+		bpf \
 		mips \
 		powerpc \
 		sparc \
